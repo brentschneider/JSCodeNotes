@@ -20,8 +20,12 @@ A front-end developer typically designs and develops web sites, web applications
 or native applications running on web technologies.
 
 The generic job title  describes a developer who is skilled to some degree at HTML,
-CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+CSS, DOM, and JavaScript and implementing these technologies on the web.
 
+- Responsible for the design and development of user facing code.
+- Optimize web applications to maximize speed and scalability.
+- Create fast, easy-to-use applications, and develop prototypes quickly.
+- Build amazing, immersive user experiences.
 
 (Note: A developer who builds everything was once called a "web master" but as of 
 late these rare and mythical developers are called "full-stack developers").
@@ -30,67 +34,67 @@ late these rare and mythical developers are called "full-stack developers").
 
 ## HTML and CSS foundations:
 
-[] __HTML__
-* [HTML Tables](http://teamtreehouse.com/library/html-tables)
-* [HTML Forms](http://teamtreehouse.com/library/html-forms)
+ __HTML__
+* [ ] [HTML Tables](http://teamtreehouse.com/library/html-tables)
+* [ ] [HTML Forms](http://teamtreehouse.com/library/html-forms)
 
-[] __CSS__
-* [CSS Basics](http://teamtreehouse.com/library/css-basics)
-* [CSS Selectors](http://teamtreehouse.com/library/css-selectors)
-* [CSS Beyond The Basics](http://teamtreehouse.com/library/css-beyond-the-basics)
-* [SVG Basics](http://teamtreehouse.com/library/svg-basics)
+ __CSS__
+* [ ] [CSS Basics](http://teamtreehouse.com/library/css-basics)
+* [ ] [CSS Selectors](http://teamtreehouse.com/library/css-selectors)
+* [ ] [CSS Beyond The Basics](http://teamtreehouse.com/library/css-beyond-the-basics)
+* [ ] [SVG Basics](http://teamtreehouse.com/library/svg-basics)
 
 
 
 ### Optional html & css:
 
 __Full HTML course__
-* [club-html](http://teamtreehouse.com/library/treehouse-club-html)
+* [ ] [club-html](http://teamtreehouse.com/library/treehouse-club-html)
 
 __Club CSS__
-* [club css](http://teamtreehouse.com/library/treehouse-club-css)
+* [ ] [club css](http://teamtreehouse.com/library/treehouse-club-css)
 
 
 ## Intro to Javascript
 
-[] __JS__
+ __JS__
 
-* [JS Basics](http://teamtreehouse.com/library/javascript-basics)
-* [javascript](http://teamtreehouse.com/library/treehouse-club-javascript)
-* [TreeHouse : JS Loops, Arrays, & Objects ](https://teamtreehouse.com/library/javascript-loops-arrays-and-objects)
-* [JavaScript Basics](www.codecademy.com/tracks/javascript)
-* [JavaScript/HTML/jQuery Interactive Website](http://www.codecademy.com/skills/make-an-interactive-website)
-* [Function Declarations and Expressions](http://javascript.info/tutorial/functions-declarations-and-expressions)
-* [Working with JavaScript Dates and Times](http://javascript.info/tutorial/datetime-functions)
-* [JavaScript Prototype](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
-* [JavaScript this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it)
-* [JavaScript Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
+* [ ] [JS Basics](http://teamtreehouse.com/library/javascript-basics)
+* [ ] [javascript](http://teamtreehouse.com/library/treehouse-club-javascript)
+* [ ] [TreeHouse : JS Loops, Arrays, & Objects ](https://teamtreehouse.com/library/javascript-loops-arrays-and-objects)
+* [ ] [JavaScript Basics](www.codecademy.com/tracks/javascript)
+* [ ] [JavaScript/HTML/jQuery Interactive Website](http://www.codecademy.com/skills/make-an-interactive-website)
+* [ ] [Function Declarations and Expressions](http://javascript.info/tutorial/functions-declarations-and-expressions)
+* [ ] [Working with JavaScript Dates and Times](http://javascript.info/tutorial/datetime-functions)
+* [ ] [JavaScript Prototype](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+* [ ] [JavaScript this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it)
+* [ ] [JavaScript Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
 
 
 ### TreeHouse Club: Game that integrates HTML, CSS, and JavaScript
 
-[] * [club-mash](http://teamtreehouse.com/library/treehouse-club-mash)
+ * [ ] [club-mash](http://teamtreehouse.com/library/treehouse-club-mash)
 
 
-[] __jQuery__
-* [CodecCademy](https://www.codecademy.com/tracks/jquery)
-* [TreeHouse - Using jQuery Plugins](https://teamtreehouse.com/library/using-jquery-plugins)
-* [TreeHouse - jQuery Basics](https://teamtreehouse.com/library/jquery-basics)
+ __jQuery__
+* [ ] [CodecCademy](https://www.codecademy.com/tracks/jquery)
+* [ ] [TreeHouse - Using jQuery Plugins](https://teamtreehouse.com/library/using-jquery-plugins)
+* [ ] [TreeHouse - jQuery Basics](https://teamtreehouse.com/library/jquery-basics)
 
 
 
 ### Design refresher
 
 
-* [Aesthetic Foundations](http://teamtreehouse.com/library/aesthetic-foundations)
-* [Design Foundations](http://teamtreehouse.com/library/design-foundations)
-* [TreeHouse: UX Basics](http://teamtreehouse.com/library/ux-basics)
-* [TreeHouse: Usability Foundations](http://teamtreehouse.com/library/usability-foundations)
+* [ ] [Aesthetic Foundations](http://teamtreehouse.com/library/aesthetic-foundations)
+* [ ] [Design Foundations](http://teamtreehouse.com/library/design-foundations)
+* [ ] [TreeHouse: UX Basics](http://teamtreehouse.com/library/ux-basics)
+* [ ] [TreeHouse: Usability Foundations](http://teamtreehouse.com/library/usability-foundations)
 
 
 - - -
 
-# Overview of your goals to achieve 
+# An overview of what you should focus on learning
 
 
 ```
@@ -159,21 +163,21 @@ __Club CSS__
 
 ## Books
 
-[Front-end Book](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
-[node](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
-[speaking javascript](http://speakingjs.com/es5/)
-[JS design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [ ] [Front-end Book](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+* [ ] [node](http://chimera.labs.oreilly.com/books/1234000001808/index.html)
+* [ ] [speaking javascript](http://speakingjs.com/es5/)
+* [ ] [JS design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 
 
 ## Atribute
 
-[Team Tree House](http://referrals.trhou.se/brentschneider)
-[Edx](https://www.edx.org/course/introduction-jquery-microsoft-dev208x-0)
-[Code School](http://javascript-roadtrip.codeschool.com/)
-[learn modern developer](https://learn.modern-developer.com/)
-[Code Academy](https://www.codecademy.com/learn/javascript)
-[Sitepoint](http://www.tutorialspoint.com/javascript/)
-[Javascript is sexy](http://javascriptissexy.com/)
+* [ ] [Team Tree House](http://referrals.trhou.se/brentschneider)
+* [ ] [Edx](https://www.edx.org/course/introduction-jquery-microsoft-dev208x-0)
+* [ ] [Code School](http://javascript-roadtrip.codeschool.com/)
+* [ ] [learn modern developer](https://learn.modern-developer.com/)
+* [ ] [Code Academy](https://www.codecademy.com/learn/javascript)
+* [ ] [Sitepoint](http://www.tutorialspoint.com/javascript/)
+* [ ] [Javascript is sexy](http://javascriptissexy.com/)
 
 
