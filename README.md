@@ -16,12 +16,15 @@
 
 ~~~
 
-A front-end developer is typically designs and develops web sites, web applications, or native applications running on web technologies. 
+A front-end developer typically designs and develops web sites, web applications,
+or native applications running on web technologies.
 
-The generic job title  describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+The generic job title  describes a developer who is skilled to some degree at HTML,
+CSS, DOM, and JavaScript and implementing these technologies on the web platform.
 
 
-(Note: A developer who builds everything was once called a "web master" but as of late these rare and mythical developers are called "full-stack developers").
+(Note: A developer who builds everything was once called a "web master" but as of 
+late these rare and mythical developers are called "full-stack developers").
 
 
 
@@ -113,22 +116,30 @@ __Club CSS__
 
 3. JavaScript
 
-	* Operators (||, &&, +, -, =, ===, etc.), including unary, conditional, and inequality operators
+	* Operators (||, &&, +, -, =, ===, etc.), including unary, conditional, 
+	and inequality operators
 	* Data Types (Strings, Boolean, Numbers, Arrays, etc.) and Variables
 	* Conditionals, including if, else, switch
 	* Loops (for and while)
-	* String Manipulation (search, split, replace, etc.); reverse a string, convert string to array, search parts of a string
-	* Essential JavaScript Objects (create objects, edit objects, use objects, delete objects, etc.)
+	* String Manipulation (search, split, replace, etc.); reverse a string, 
+	convert string to array, search parts of a string
+	* Essential JavaScript Objects (create objects, edit objects, use objects, 
+	delete objects, etc.)
 	* Function definition and function expressions
 	* Basic regular expression (search and replace with regular expression)
-	* More objects (properties, methods, removing properties, serialization, etc.) and the global object
+	* More objects (properties, methods, removing properties, serialization, 
+	etc.) and the global object
 	* How to get value from form fields
 	* Basic mouse events (click, mouse over, etc.)
-	* How to convert to the various types (e.g., string to number, string to boolean, number to string)
+	* How to convert to the various types (e.g., string to number, string to 
+	boolean, number to string)
 	* Variable scope
 	* JavaScript this
-	* How to show the dates and time in different format (Tuesday, April 2, 2015; Wednesday at 5:00 pm, etc.)
-	* How to work with the entire DOM without jQuery (i.e., us only JavaScript methods and functions); for example querySelector(), querySelectorAll(), matchesSelector(), element.parentNode, etc.
+	* How to show the dates and time in different format (Tuesday, April 2, 
+	2015; Wednesday at 5:00 pm, etc.)
+	* How to work with the entire DOM without jQuery (i.e., us only JavaScript 
+	methods and functions); for example querySelector(), querySelectorAll(), 
+	matchesSelector(), element.parentNode, etc.
 
 4. jQuery
 
